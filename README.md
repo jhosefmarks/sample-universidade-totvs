@@ -5,7 +5,8 @@ introdução ao desenvolvimento WEB usando Angular e PO UI.
 
 > Para reprodução de todos os exemplos, é necessário acessar a pasta do exemplo
 e executar o comando:
- `npm install && ng serve --open`.
+
+> `npm install && ng serve --open`.
 
 ### sample-universidade
 
